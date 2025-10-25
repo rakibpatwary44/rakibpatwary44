@@ -1,5 +1,4 @@
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rakib%20%Patwary&textBg=false&fontColor=rad&animation=fadeIn&desc=💻%20Full%20Stack%20Web%20Developer%20|%20UX/UI%20Designer%20|%20Responsive%20Design%20Specialist%20|%20Web%20Research%20Expert&descSize=-39&descAlign=49&descAlignY=46&fontAlignY=30)" />
-# 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rakib%20%Patwary&textBg=false&fontColor=rad&animation=fadeIn&desc=💻%20Full%20Stack%20Web%20Developer%20|%20UX/UI%20Designer%20|%20Responsive%20Design%20Specialist%20|%20Web%20Research%20Expert&descSize=-39&descAlign=49&descAlignY=46&fontAlignY=30" />
 <h1 align="center">Hi 👋, I'm Rakib Patwary</h1>
 💻 Full Stack Web Developer | UX/UI Designer | Responsive Design Specialist | Web Research Expert | Tech Enthusiast
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
